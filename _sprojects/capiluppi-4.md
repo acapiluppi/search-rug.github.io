@@ -13,7 +13,7 @@ contact:
   header: Supervisor(s)
   members:
   - a.capiluppi@rug.nl
-title: Determining Irrigation Events: a project in collaboration with CropX
+title: Determining Irrigation Events in collaboration with CropX
 - BSc
 - MSc Int
 - MSc
